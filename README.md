@@ -7,4 +7,6 @@ We initiate the model from random initialization and pre-train on data generated
 
 CONTENTS:
 1) CanineHangmanPlayer.py: This file contains the backbone class for the agent. It can be initiated and trained using the methods defined inside it.
-2) hangman_data_generation.py: Given some words, generate the simulation states using a simple Monte-Carlo simulation.
+2) hangman_data_generation.py: Given some words, generate the simulation states using Biased Random Sampling.
+
+The repository also includes a sample slideshow explaining the model called Hangman-Transformers.pdf
