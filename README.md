@@ -8,5 +8,10 @@ We initiate the model from random initialization and pre-train on data generated
 CONTENTS:
 1) CanineHangmanPlayer.py: This file contains the backbone class for the agent. It can be initiated and trained using the methods defined inside it.
 2) hangman_data_generation.py: Given some words, generate the simulation states using Biased Random Sampling.
+3) Training_Hangman.ipynb: A sample pre-training script.
+4) Self_play_finetune.ipynb: A sample self-play finetuning script.
+5) Hangman_analysis.ipynb: A notebook comprising analysis of our trained model.
+6) Hangman_transformers.pdf and Hangman_report.pdf: Slides and a report on overview of the entire project.
+7) words_corpus.txt: Words borrowed from "https://github.com/dwyl/english-words"
 
 The repository also includes a sample slideshow explaining the model called Hangman_Transformers.pdf
