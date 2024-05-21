@@ -13,6 +13,5 @@ CONTENTS:
 5) Hangman_analysis.ipynb: A notebook comprising analysis of our trained model.
 6) Hangman_transformers.pdf and Hangman_report.pdf: Slides and a report on overview of the entire project.
 7) words_corpus.txt: Words borrowed from "https://github.com/dwyl/english-words"
-8) Baseline.ipynb: A sample code for a baseline model utilising N_grams
 
 The repository also includes a sample slideshow explaining the model called Hangman_Transformers.pdf
